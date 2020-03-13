@@ -1,5 +1,5 @@
 # SoalShiftSISOP20_modul2_A03
-
+<soal nomor 2>
 #include <stdio.h>
 #include <sys/types.h>
 #include <unistd.h>
